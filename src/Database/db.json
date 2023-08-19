@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gourab",
+      "email": "banerjee.gourab444@gmail.com",
+      "number": "6294187725"
+    },
+    {
+      "name": "Iman karmakar",
+      "email": "iman@gmail.com",
+      "number": "587899976789",
+      "": "9",
+      "id": 2
+    },
+    {
+      "name": "kamlesh",
+      "email": "kamaeshlabc@gmail.com",
+      "number": "64839228",
+      "id": 3
+    },
+    {
+      "name": "Biswajit",
+      "email": "bisu@gmail.com",
+      "number": "6654246",
+      "id": 4
+    },
+    {
+      "name": "nabanita",
+      "email": "naba@gamil.com",
+      "number": "456789",
+      "id": 5
+    }
+  ]
+}
